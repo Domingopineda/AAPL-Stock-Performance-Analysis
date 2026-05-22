@@ -71,7 +71,7 @@ https://public.tableau.com/views/AppleStockPerformanceAnalysis/AppleMarketTrends
 ## 📂 Dataset Source
 
 Dataset obtained from Kaggle:
-Apple (AAPL) Stock Dataset 1980–2025
+Apple (AAPL) Stock Dataset 1984–2025
 
 ---
 
