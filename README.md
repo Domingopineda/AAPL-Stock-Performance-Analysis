@@ -1,7 +1,7 @@
-# 📊 Apple Stock Performance Analysis (1980–2025)
+# 📊 Apple Stock Performance Analysis (1984–2025)
 
 ## 📌 Project Overview
-This project analyzes Apple’s historical stock performance using financial market data from 1980 to 2025. The analysis focuses on identifying long-term trends, stock volatility, daily price movements, and market activity patterns.
+This project analyzes Apple’s historical stock performance using financial market data from 1984 to 2025. The analysis focuses on identifying long-term trends, stock volatility, daily price movements, and market activity patterns.
 
 The project was built using SQL, Tableau, and Excel to simulate a real-world financial data analytics workflow.
 
