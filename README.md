@@ -77,5 +77,5 @@ Apple (AAPL) Stock Dataset 1984–2025
 
 ## 👤 Author
 
-Daniel Pineda
+Domingo Pineda Sabino
 Data Analyst | Financial Analytics Enthusiast
