@@ -62,7 +62,7 @@ https://public.tableau.com/views/AppleStockPerformanceAnalysis/AppleMarketTrends
 - Financial Data Analysis
 - Time Series Analysis
 - Data Visualization
-- SQL Window Functions
+- Microsoft SQL
 - Business Intelligence
 - Tableau Dashboard Design
 
